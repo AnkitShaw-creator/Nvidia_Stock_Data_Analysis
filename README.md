@@ -3,7 +3,7 @@ This dataset offers a detailed historical overview of NVIDIA Corporation’s sto
 
 The dataset includes daily trading records, making it suitable for time series analysis, financial forecasting, algorithmic trading simulations, and educational purposes. Users can explore how NVIDIA’s stock price has evolved over time, identify patterns or anomalies, and build or benchmark predictive models.
 
-##Columns Description
+## Columns Description
 1. Date: The specific trading date in the format YYYY-MM-DD.
 2. Close: The closing price of NVIDIA shares at the end of the trading day.
 3. High: The highest price reached by NVIDIA stock during the trading session.
